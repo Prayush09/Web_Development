@@ -1,0 +1,35 @@
+html{
+    font-family: 'Times New Roman', Times, serif;
+}
+img{
+    background: antiquewhite;
+    border: 1px snow;
+}
+a{
+    display: inline-block;
+    color:palevioletred;
+    padding: 6px 10px;
+}
+li{
+    text-align: center;
+}
+
+div.container{
+    text-align: center;
+}
+
+ul.hogwarts{
+    display:inline-block;
+}
+hr{
+    height: fit-content;
+}
+
+div.content{
+    text-align: center;
+}
+
+table{
+    border-spacing: 15px;
+}
+
